@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the accompanying manuscript."
+title: "GazeDis-MER: Periocular Response Aggregation for Cross-Subject Micro-Expression Recognition"
+type: software
+authors:
+  - family-names: Xia
+    given-names: Yang
+    email: 1225045401@njupt.edu.cn
+    affiliation: Nanjing University of Posts and Telecommunications
+    orcid: "https://orcid.org/0009-0007-4774-8672"
+  - family-names: Yue
+    given-names: Wenjing
+    email: yuewj@njupt.edu.cn
+    affiliation: Nanjing University of Posts and Telecommunications
+  - family-names: Chen
+    given-names: Zhi
+    email: chenz@njupt.edu.cn
+    affiliation: Nanjing University of Posts and Telecommunications
+    orcid: "https://orcid.org/0000-0003-0221-5016"
+repository-code: "https://github.com/bduh753/GazeDis-MER"
+license: MIT
+version: 1.0.0
+date-released: 2026-10-16
+
